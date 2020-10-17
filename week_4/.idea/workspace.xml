@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8d04c2f8-e9a0-4208-9e96-f57766a620d3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bWGjh3JGjxTD6lfmUso3rD8vsx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.25_lesson">
+    <configuration name="22_lesson" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="week_4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/22_lesson.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="24_lesson" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="week_4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/24_lesson.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="25_lesson" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="week_4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/25_lesson.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="27_lesson" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="week_4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/27_lesson.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="28_lesson" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="week_4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/28_lesson.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.25_lesson" />
+        <item itemvalue="Python.28_lesson" />
+        <item itemvalue="Python.27_lesson" />
+        <item itemvalue="Python.24_lesson" />
+        <item itemvalue="Python.22_lesson" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d04c2f8-e9a0-4208-9e96-f57766a620d3" name="Default Changelist" comment="" />
+      <created>1588740573602</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588740573602</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1899" height="259" key="GridCell.Tab.0.bottom" timestamp="1589878598377">
+      <screen x="0" y="46" width="1920" height="1034" />
+    </state>
+    <state width="1899" height="259" key="GridCell.Tab.0.bottom/0.46.1920.1034@0.46.1920.1034" timestamp="1589878598377" />
+    <state width="1899" height="259" key="GridCell.Tab.0.center" timestamp="1589878598376">
+      <screen x="0" y="46" width="1920" height="1034" />
+    </state>
+    <state width="1899" height="259" key="GridCell.Tab.0.center/0.46.1920.1034@0.46.1920.1034" timestamp="1589878598376" />
+    <state width="1899" height="259" key="GridCell.Tab.0.left" timestamp="1589878598376">
+      <screen x="0" y="46" width="1920" height="1034" />
+    </state>
+    <state width="1899" height="259" key="GridCell.Tab.0.left/0.46.1920.1034@0.46.1920.1034" timestamp="1589878598376" />
+    <state width="1899" height="259" key="GridCell.Tab.0.right" timestamp="1589878598377">
+      <screen x="0" y="46" width="1920" height="1034" />
+    </state>
+    <state width="1899" height="259" key="GridCell.Tab.0.right/0.46.1920.1034@0.46.1920.1034" timestamp="1589878598377" />
+    <state width="1899" height="323" key="GridCell.Tab.1.bottom" timestamp="1588752282974">
+      <screen x="0" y="46" width="1920" height="1034" />
+    </state>
+    <state width="1899" height="323" key="GridCell.Tab.1.bottom/0.46.1920.1034@0.46.1920.1034" timestamp="1588752282974" />
+    <state width="1899" height="323" key="GridCell.Tab.1.center" timestamp="1588752282974">
+      <screen x="0" y="46" width="1920" height="1034" />
+    </state>
+    <state width="1899" height="323" key="GridCell.Tab.1.center/0.46.1920.1034@0.46.1920.1034" timestamp="1588752282974" />
+    <state width="1899" height="323" key="GridCell.Tab.1.left" timestamp="1588752282974">
+      <screen x="0" y="46" width="1920" height="1034" />
+    </state>
+    <state width="1899" height="323" key="GridCell.Tab.1.left/0.46.1920.1034@0.46.1920.1034" timestamp="1588752282974" />
+    <state width="1899" height="323" key="GridCell.Tab.1.right" timestamp="1588752282974">
+      <screen x="0" y="46" width="1920" height="1034" />
+    </state>
+    <state width="1899" height="323" key="GridCell.Tab.1.right/0.46.1920.1034@0.46.1920.1034" timestamp="1588752282974" />
+    <state x="636" y="387" key="com.intellij.ide.util.TipDialog" timestamp="1590139440574">
+      <screen x="0" y="46" width="1920" height="1034" />
+    </state>
+    <state x="636" y="387" key="com.intellij.ide.util.TipDialog/0.46.1920.1034@0.46.1920.1034" timestamp="1590139440574" />
+    <state x="-71" y="147" width="1646" height="838" key="dock-window-1" timestamp="1588746861118">
+      <screen x="0" y="46" width="1920" height="1034" />
+    </state>
+    <state x="-71" y="147" width="1646" height="838" key="dock-window-1/0.46.1920.1034@0.46.1920.1034" timestamp="1588746861118" />
+    <state x="122" y="155" width="1736" height="850" key="dock-window-2" timestamp="1588746911679">
+      <screen x="0" y="46" width="1920" height="1034" />
+    </state>
+    <state x="122" y="155" width="1736" height="850" key="dock-window-2/0.46.1920.1034@0.46.1920.1034" timestamp="1588746911679" />
+    <state x="623" y="269" key="search.everywhere.popup" timestamp="1588746901385">
+      <screen x="0" y="46" width="1920" height="1034" />
+    </state>
+    <state x="623" y="269" key="search.everywhere.popup/0.46.1920.1034@0.46.1920.1034" timestamp="1588746901385" />
+  </component>
+</project>

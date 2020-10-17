@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7aa80fcc-803b-4e7a-8bc0-fcdcd1573e06" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1any89RJb7A5wHTx2FLt5cBmP9S" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.01_lesson">
+    <configuration name="01_lesson" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="first_lesson" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_lesson.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="08_lesson" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="first_lesson" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_lesson.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="16_lesson" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="first_lesson" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16_lesson.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="17_lesson" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="first_lesson" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/17_lesson.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="18_lesson" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="first_lesson" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/18_lesson.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.01_lesson" />
+        <item itemvalue="Python.18_lesson" />
+        <item itemvalue="Python.17_lesson" />
+        <item itemvalue="Python.08_lesson" />
+        <item itemvalue="Python.16_lesson" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7aa80fcc-803b-4e7a-8bc0-fcdcd1573e06" name="Default Changelist" comment="" />
+      <created>1587385490284</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587385490284</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="674" y="183" key="#04_lesson" timestamp="1587390774083">
+      <screen x="0" y="46" width="1920" height="1034" />
+    </state>
+    <state x="674" y="183" key="#04_lesson/0.46.1920.1034@0.46.1920.1034" timestamp="1587390774083" />
+    <state x="414" y="218" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587385562004">
+      <screen x="0" y="46" width="1920" height="1034" />
+    </state>
+    <state x="414" y="218" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.46.1920.1034@0.46.1920.1034" timestamp="1587385562004" />
+    <state x="674" y="183" key="#prints_penguin" timestamp="1587390812000">
+      <screen x="0" y="46" width="1920" height="1034" />
+    </state>
+    <state x="674" y="183" key="#prints_penguin/0.46.1920.1034@0.46.1920.1034" timestamp="1587390812000" />
+    <state width="1899" height="259" key="GridCell.Tab.0.bottom" timestamp="1587403748546">
+      <screen x="0" y="46" width="1920" height="1034" />
+    </state>
+    <state width="1899" height="259" key="GridCell.Tab.0.bottom/0.46.1920.1034@0.46.1920.1034" timestamp="1587403748546" />
+    <state width="1899" height="259" key="GridCell.Tab.0.center" timestamp="1587403748546">
+      <screen x="0" y="46" width="1920" height="1034" />
+    </state>
+    <state width="1899" height="259" key="GridCell.Tab.0.center/0.46.1920.1034@0.46.1920.1034" timestamp="1587403748546" />
+    <state width="1899" height="259" key="GridCell.Tab.0.left" timestamp="1587403748546">
+      <screen x="0" y="46" width="1920" height="1034" />
+    </state>
+    <state width="1899" height="259" key="GridCell.Tab.0.left/0.46.1920.1034@0.46.1920.1034" timestamp="1587403748546" />
+    <state width="1899" height="259" key="GridCell.Tab.0.right" timestamp="1587403748546">
+      <screen x="0" y="46" width="1920" height="1034" />
+    </state>
+    <state width="1899" height="259" key="GridCell.Tab.0.right/0.46.1920.1034@0.46.1920.1034" timestamp="1587403748546" />
+    <state width="1899" height="323" key="GridCell.Tab.1.bottom" timestamp="1587403715115">
+      <screen x="0" y="46" width="1920" height="1034" />
+    </state>
+    <state width="1899" height="323" key="GridCell.Tab.1.bottom/0.46.1920.1034@0.46.1920.1034" timestamp="1587403715115" />
+    <state width="1899" height="323" key="GridCell.Tab.1.center" timestamp="1587403715115">
+      <screen x="0" y="46" width="1920" height="1034" />
+    </state>
+    <state width="1899" height="323" key="GridCell.Tab.1.center/0.46.1920.1034@0.46.1920.1034" timestamp="1587403715115" />
+    <state width="1899" height="323" key="GridCell.Tab.1.left" timestamp="1587403715115">
+      <screen x="0" y="46" width="1920" height="1034" />
+    </state>
+    <state width="1899" height="323" key="GridCell.Tab.1.left/0.46.1920.1034@0.46.1920.1034" timestamp="1587403715115" />
+    <state width="1899" height="323" key="GridCell.Tab.1.right" timestamp="1587403715115">
+      <screen x="0" y="46" width="1920" height="1034" />
+    </state>
+    <state width="1899" height="323" key="GridCell.Tab.1.right/0.46.1920.1034@0.46.1920.1034" timestamp="1587403715115" />
+  </component>
+</project>
